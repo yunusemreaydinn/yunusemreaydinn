@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 🤝 I’m looking for help with **Animations**
-
-- 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **yunusemreaydin0@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
