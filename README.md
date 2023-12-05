@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **React**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **yunusemreaydin0@outlook.com**
 
