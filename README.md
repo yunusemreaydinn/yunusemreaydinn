@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>,         
+<h1 align="center">Hi 👋, I'm Emre</h1>
 
 - 🔭 I’m currently working with **React**
 
