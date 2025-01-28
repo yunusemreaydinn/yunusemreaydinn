@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 
-- 🔭 I’m currently working with **React**
-
-- 🌱 I’m currently learning **Java**
-
 - 📫 How to reach me **yunusemreaydin0@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
